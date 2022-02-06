@@ -1,0 +1,7 @@
+.circle-picker span div span div[title="#fff"] {
+  border: 1px solid #999;
+}
+
+.white-selected span div span div[title="#fff"] {
+  box-shadow: #999 0 0 0 3px inset, 0 0 5px #999 !important;
+}
